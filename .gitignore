@@ -706,3 +706,5 @@ hs_err_pid*
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/git,macos,windows,linux,intellij+all,intellij+iml,intellij,flutter,androidstudio,android,swift,xcode,objective-c,gradle
+
+pubspec.lock
