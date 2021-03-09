@@ -1,4 +1,4 @@
-# strage_medecine_front
+# stage_medecine_front
 Back : https://github.com/guilloulouis/stage_medecine_api
 
 Web Application to be able to handle medecine traineeship there are 2 types of users : 
